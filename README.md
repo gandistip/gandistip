@@ -13,5 +13,4 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandistip&layout=compact&size_weight=0.5&count_weight=0.5&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gandistip&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&theme=onedark)
